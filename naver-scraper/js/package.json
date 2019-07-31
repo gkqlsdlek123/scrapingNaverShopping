@@ -1,0 +1,26 @@
+{
+	"name": "cj-naver-scraper",
+	"version": "1.0.0",
+	"description": "naver best100 seller/product contents scraper",
+	"main": "cjNaverScraper.js",
+	"scripts": {
+		"test": "nodejs cjNaverScraper.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.cjoshopping.com/cjos-scraper/naver-scraper"
+	},
+	"keywords": [
+		"naver",
+		"scraper"
+	],
+	"author": "juho.koh@cj.net",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "1.7.0",
+		"cheerio": "1.0.0-rc.2",
+		"dateformat": "3.0.3",
+		"request": "2.88.0"
+	},
+	"devDependencies": {}
+}
