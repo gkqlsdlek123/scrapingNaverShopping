@@ -1,11 +1,10 @@
 /*
  * Naver Best100 Category Scraper
  *
- * Copyright (c) 2018 CJ ENM
  *
- * @author <juho.koh@cj.net>
- * @modified xxx <xxx@cj.net> 2018-08-28
- * @lastModified xxx <xxx@cj.net> 2018-08-28
+ * @author
+ * @modified 2018-08-28
+ * @lastModified 2018-08-28
  */
 const request = require('request');
 // parses markup and provides an API for traversing/manipulating the resulting data structure
