@@ -1,11 +1,10 @@
 /*
  * Naver Nv Detail Scraper
  *
- * Copyright (c) 2018 CJ ENM
  *
- * @author <juho.koh@cj.net>
- * @modified 김하빈 <habin_kim@cj.net> 2018-10-10
- * @lastModified 김하빈 <habin_kim@cj.net> 2018-10-10
+ * @author
+ * @modified 김하빈 2018-10-10
+ * @lastModified 김하빈 018-10-10
  */
 // provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 // requires at least Node v6.4.0, but the examples below use async/await which is only supported in Node v7.6.0 or greater
