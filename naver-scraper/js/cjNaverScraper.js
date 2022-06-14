@@ -1,11 +1,10 @@
 /*
  * Naver Shopping Best100 Scraper
  *
- * Copyright (c) 2018 CJ ENM
  *
- * @author <juho.koh@cj.net>
- * @modified xxx <xxx@cj.net> 2018-08-28
- * @lastModified xxx <xxx@cj.net> 2018-08-28
+ * @autho 
+ * @modified 2018-08-28
+ * @lastModified  2018-08-28
  */
 var naverNvDtlScraper = require('./naver_nv_dtl_scraper.js');
 var naverBest100Scraper = require('./naver_best100_cate_scraper.js');
